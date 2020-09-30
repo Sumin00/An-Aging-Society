@@ -1,7 +1,6 @@
 # An-Aging-Society
-Data Science project
-
 ## Subject
+Finding indicators related to an aging society
 
 ### Related Indicator
 
