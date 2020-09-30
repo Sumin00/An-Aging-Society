@@ -5,7 +5,7 @@ Finding indicators related to an aging society
 #### The Environment for execution is:<br>
 > * Python 3.6<br>
 
-#### The Environment for execution is:<br>
+#### Used library:<br>
 > * numpy
 > * pandas
 > * matplotlib
